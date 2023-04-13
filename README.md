@@ -1,5 +1,25 @@
 # Vuestar-pinia
 
-Vue2와 Javascript로 작성된 코딩애플님의 vstargram을 리펙토링 및 마이그레이션한 프로젝트
+## Project setup
+```
+npm install
+npm i pinia
+```
 
-Vue3 + Typescript + Pinia 사용
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
