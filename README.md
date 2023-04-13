@@ -1,5 +1,7 @@
 # Vuestar-pinia
 
+코딩애플님의 vstargram을 마이그레이션, 리펙토링 한 프로젝트
+
 ## Project setup
 ```
 npm install
