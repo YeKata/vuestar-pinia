@@ -1,7 +1,7 @@
 # Vuestar-pinia
 
-코딩애플님의 vstargram을 마이그레이션, 리펙토링 한 프로젝트
-
+코딩애플님의 vstargram앱을 Vue3 setup script로 마이그레이션, 리펙토링<br/>
+Vue3 setup script, TypeScript의 숙련도를 향상시키는 것을 목표로 한 프로젝트<br/>
 ## Project setup
 ```
 npm install
